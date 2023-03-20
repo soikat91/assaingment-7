@@ -45,6 +45,7 @@ INSERT INTO `department` (`id`, `name`, `manager`) VALUES
 (5, 'HR', 'E'),
 (7, 'Research', 'Jhon DOe');
 
+
 -- --------------------------------------------------------
 
 --
